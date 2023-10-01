@@ -1,0 +1,1 @@
+!function(){const{registerBlockType:o}=wp.blocks;o("custom-blocks/hello-block",{title:"Custom Hello Block",icon:"smiley",category:"common",attributes:{},edit(){},save(){}})}();

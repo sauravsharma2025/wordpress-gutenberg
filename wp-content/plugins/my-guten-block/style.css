@@ -1,0 +1,8 @@
+.custom-block{
+    background-color: blue;
+    font-size: larger;
+    color: azure;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
